@@ -1,4 +1,4 @@
-# Hi, I'm Kimora! 👋🏾
+hi
 
 I'm an Information Systems student at Kennesaw State University, and I'm also pursuing a Master of Science in Technology Management and Leadership (MSTML). I enjoy working with data, building websites, and creating things that are both useful and cute.
 
