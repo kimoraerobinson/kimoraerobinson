@@ -1,6 +1,6 @@
 # Hi, I'm Kimora! 👋🏾
 
-I'm an Information Systems student at Kennesaw State University. I enjoy working with data, building websites, and creating things that are both useful and cute.
+I'm an Information Systems student at Kennesaw State University, and I'm also pursuing my master's in management technology. I enjoy working with data, building websites, and creating things that are both useful and cute.
 
 My interests are a mix of data analysis, web development, fintech, and whatever else catches my attention. This GitHub is where I keep school work, personal projects, experiments, and ideas I wanted to try.
 
@@ -13,9 +13,9 @@ My interests are a mix of data analysis, web development, fintech, and whatever 
 
 ## Tech I've Worked With 🛠️
 
-**Languages:** Python, Java, JavaScript, R, SQL  
-**Web:** HTML, CSS, Flask  
-**Data & Databases:** Pandas, NumPy, MySQL  
+**Languages:** Python, Java, JavaScript, R, SQL  
+**Web:** HTML, CSS, Flask  
+**Data & Databases:** Pandas, NumPy, MySQL  
 **Tools:** Jupyter Notebook, PyCharm, Pygame, Tableau, Power BI
 
 I'm always learning and adding new things as I figure out what I want to create next. 🌱
